@@ -1,4 +1,6 @@
-# hello-world
-my hello world
+﻿# hello-world
+Mun ikioma readme tiedostoni
 
-Tässä tätä nyt vain testataan. Mitä kaikkea kivaa gitil onkaan meille tarjotakaan?
+Testataan miten githubin työpöytäversio toimii
+
+:D
